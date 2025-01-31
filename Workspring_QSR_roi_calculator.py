@@ -31,7 +31,7 @@ with col1:
 
 # Display NomadGo logo on the right
 with col2:
-    st.image("https://www.nomad-go.com/static/media/nomadgo_logo.12345678.png", width=150)  # Replace with actual logo
+    st.image("<img src="https://cdn.prod.website-files.com/63464a83595dfc63e7e1662f/64e904bb5806093b06821451_Logo.png", width=150)  # Replace with actual logo
 
 # Centered text below logos
 st.markdown("<h1 style='text-align: center;'>We're Just Better Together</h1>", unsafe_allow_html=True)

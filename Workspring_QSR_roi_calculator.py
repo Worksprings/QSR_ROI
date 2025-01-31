@@ -27,7 +27,7 @@ col1, col2 = st.columns([1, 1])
 
 # Display QSR logo on the left
 with col1:
-    st.image("https://upload.wikimedia.org/wikipedia/commons/2/2f/McDonald%27s_logo.svg", width=150)
+    st.image("https://cdn.freebiesupply.com/logos/large/2x/mcdonalds-15-logo-png-transparent.png", width=150)
 
 # Display NomadGo logo on the right
 with col2:

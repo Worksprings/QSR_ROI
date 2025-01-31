@@ -27,11 +27,11 @@ col1, col2 = st.columns([1, 1])
 
 # Display QSR logo on the left
 with col1:
-    st.image("mcdonalds_logo.png", width=150)  # Replace with actual logo
+    st.image("https://upload.wikimedia.org/wikipedia/commons/2/2f/McDonald%27s_logo.svg", width=150)
 
 # Display NomadGo logo on the right
 with col2:
-    st.image("nomadgo_logo.png", width=150)  # Replace with actual logo
+    st.image("https://www.nomad-go.com/static/media/nomadgo_logo.12345678.png", width=150)  # Replace with actual logo
 
 # Centered text below logos
 st.markdown("<h1 style='text-align: center;'>We're Just Better Together</h1>", unsafe_allow_html=True)

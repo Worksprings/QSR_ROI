@@ -110,4 +110,4 @@ if st.button("Calculate ROI"):
         st.success("Calculation Complete! Adjust values to see different scenarios.")
 
 # Footer
-st.write("Powered by Worksprings | Streamlining Inventory Management")
+st.write("Powered by Nate Wright @ Worksprings")
